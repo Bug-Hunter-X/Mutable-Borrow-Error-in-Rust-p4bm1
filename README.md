@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Rust: attempting to mutably borrow a variable more than once at a time.  The `bug.rs` file contains code that produces this error. The `bugSolution.rs` file shows how to correct the issue.
